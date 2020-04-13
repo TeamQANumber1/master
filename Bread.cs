@@ -9,7 +9,7 @@ namespace Shop
         public Bread()
         {
             price = 5;
-            expDate = 3;
+            expDate = 35;
         }
     }
 }
